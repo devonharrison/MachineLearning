@@ -5,4 +5,3 @@ import forexdataservice as fds
 # print(df)
 # ML.graphRawFX()
 
-print(fds.fetch_realtime_forex_polygon())
